@@ -1,5 +1,5 @@
 Projeto DevStart solicicitado pela BeAcademy para verificação
-de exercicios.
+de exercícios.
 
 
 ## Autores
@@ -17,7 +17,7 @@ de exercicios.
 - git rm --cached (Remove arquivo do commit)
 - git add . (Pega todos arquivos)
 - git commit -m "Mensagem" (Cria um commit)
-- git log (Mostra Historico do commit)
+- git log (Mostra Histórico do commit)
 - gti branch nome_da_branch (Cria uma branch)
 - git checkout --b nome_da_branch(Navega entre as branch)
 - git branch --d nome_da_branch (Remove a branch)
