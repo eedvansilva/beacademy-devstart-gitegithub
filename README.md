@@ -1,6 +1,4 @@
-beacademy-devstart-gitegithub
-
-Projeto devstart solicicitado pela Beacademy para verificação
+Projeto DevStart solicicitado pela BeAcademy para verificação
 de exercicios.
 
 
