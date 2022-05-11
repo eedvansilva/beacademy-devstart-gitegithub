@@ -16,7 +16,7 @@ de exercicios.
 - git add (Arquivo para acicionar ao commit)
 - git rm --cached (Remove arquivo do commit)
 - git add . (Pega todos arquivos)
-- git commit --m "Mensagem" (Cria um commit)
+- git commit -m "Mensagem" (Cria um commit)
 - git log (Mostra Historico do commit)
 - gti branch nome_da_branch (Cria uma branch)
 - git checkout --b nome_da_branch(Navega entre as branch)
