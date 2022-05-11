@@ -1,7 +1,7 @@
 beacademy-devstart-gitegithub
 
 Projeto devstart solicicitado pela Beacademy para verificação
-de exercercisios.
+de exercicios.
 
 
 ## Autores
